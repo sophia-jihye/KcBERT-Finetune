@@ -1,3 +1,7 @@
+data/nsmc/ratings_train.txt
+data/nsmc/마스크_*.csv
+*마스크*
+*참존*
 exbert-transformers/
 .vscode/
 *.bin

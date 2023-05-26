@@ -1,2 +1,0 @@
- official_exact_match = 66.81676480775891
- official_f1 = 87.34723613153203
